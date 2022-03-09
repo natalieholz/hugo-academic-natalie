@@ -30,7 +30,7 @@ publication_types: ["2"]
 publication: In *Scientific Reports*
 publication_short: In *SciRep*
 
-abstract: The human voice is a potent source of information to signal emotion. Nonspeech vocalizations (e.g., laughter, crying, moans, or screams), in particular, can elicit compelling affective experiences. Consensus exists that the emotional intensity of such expressions matters; however how intensity affects such signals, and their perception remains controversial and poorly understood. One reason is the lack of appropriate data sets. We have developed a comprehensive stimulus set of nonverbal vocalizations, the first corpus to represent emotion intensity from one extreme to the other, in order to resolve the empirically underdetermined basis of 
+abstract: We have developed a comprehensive stimulus set of nonverbal vocalizations, the first corpus to represent emotion intensity from one extreme to the other, in order to resolve the empirically underdetermined basis of 
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
