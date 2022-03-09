@@ -28,7 +28,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Emotion*
-publication_short: In *ICW*
+publication_short: In *Emotion*
 
 abstract: The human voice is a potent source of information to signal emotion. Nonspeech vocalizations (e.g., laughter, crying, moans, or screams), in particular, can elicit compelling affective experiences. Consensus exists that the emotional intensity of such expressions matters; however how intensity affects such signals, and their perception remains controversial and poorly understood. One reason is the lack of appropriate data sets. We have developed a comprehensive stimulus set of nonverbal vocalizations, the first corpus to represent emotion intensity from one extreme to the other, in order to resolve the empirically underdetermined basis of emotion intensity. The full set, comprising 1085 stimuli, features eleven speakers expressing 3 positive (achievement/triumph, sexual pleasure, surprise) and 3 negative (anger, fear, physical pain) affective states, each varying from low to peak emotion intensity. The smaller core set of 480 files represents a fully crossed subsample (6 emotions × 4 intensities × 10 speakers × 2 items) selected based on judged authenticity. Perceptual validation and acoustic characterization of the stimuli are provided; the expressed emotional intensity, like expressed emotion, is reflected in listener evaluation and signal properties of nonverbal vocalizations. These carefully curated new materials can help disambiguate foundational questions on the communication of affect and emotion in the psychological and neural sciences and strengthen our theoretical understanding of this domain of emotional experience.
 
