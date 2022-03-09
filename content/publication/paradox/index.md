@@ -30,7 +30,7 @@ publication_types: ["2"]
 publication: In *Scientific Reports*
 publication_short: In *SciRep*
 
-abstract: Vocalizations including laughter, cries, moans, or screams..., the first corpus to represent emotion intensity from one extreme to the other, in order to resolve the empirically underdetermined basis of 
+abstract: Vocalizations including laughter, cries, moans, or screams constitute a potent source of information about the affective states of others. It is typically conjectured that the higher the intensity of the expressed emotion, the better the classification of affective information. However, attempts to map the relation between affective intensity and inferred meaning are controversial.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
