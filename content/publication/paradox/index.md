@@ -30,7 +30,7 @@ publication_types: ["2"]
 publication: In *Scientific Reports*
 publication_short: In *SciRep*
 
-abstract: We have developed a comprehensive stimulus set of nonverbal vocalizations, the first corpus to represent emotion intensity from one extreme to the other, in order to resolve the empirically underdetermined basis of 
+abstract: Vocalizations including laughter, cries, moans, or screams..., the first corpus to represent emotion intensity from one extreme to the other, in order to resolve the empirically underdetermined basis of 
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
