@@ -6,7 +6,7 @@ title: Natalie Holz
 superuser: true
 
 # Role/position/tagline
-role: MD/PhD student in cognitive Neuroscience
+role: MD/PhD student in cognitive neuroscience
 
 # Organizations/Affiliations to show in About widget
 organizations:
