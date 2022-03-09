@@ -14,7 +14,7 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2022-05-06T00:00:00Z"
+date: "2021-05-06T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -38,12 +38,12 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-#   url: https://doi.org/10.1037/emo0001048
+#   url: https://doi.org/10.1038/s41598-021-88431-0
 
 url_pdf: ''
 url_code: ''
@@ -67,14 +67,14 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- example
+- []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% callout note %}}
