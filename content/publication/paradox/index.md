@@ -1,5 +1,5 @@
 ---
-title: "The variably intense vocalizations of affect and emotion (VIVAE) corpus prompts new perspective on nonspeech perception"
+title: "The paradoxical role of emotional intensity in the perception of vocal affect"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -27,10 +27,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Emotion*
-publication_short: In *Emotion*
+publication: In *Scientific Reports*
+publication_short: In *SciRep*
 
-abstract: The human voice is a potent source of information to signal emotion. Nonspeech vocalizations (e.g., laughter, crying, moans, or screams), in particular, can elicit compelling affective experiences. Consensus exists that the emotional intensity of such expressions matters; however how intensity affects such signals, and their perception remains controversial and poorly understood. One reason is the lack of appropriate data sets. We have developed a comprehensive stimulus set of nonverbal vocalizations, the first corpus to represent emotion intensity from one extreme to the other, in order to resolve the empirically underdetermined basis of emotion intensity. The full set, comprising 1085 stimuli, features eleven speakers expressing 3 positive (achievement/triumph, sexual pleasure, surprise) and 3 negative (anger, fear, physical pain) affective states, each varying from low to peak emotion intensity. The smaller core set of 480 files represents a fully crossed subsample (6 emotions × 4 intensities × 10 speakers × 2 items) selected based on judged authenticity. Perceptual validation and acoustic characterization of the stimuli are provided; the expressed emotional intensity, like expressed emotion, is reflected in listener evaluation and signal properties of nonverbal vocalizations. These carefully curated new materials can help disambiguate foundational questions on the communication of affect and emotion in the psychological and neural sciences and strengthen our theoretical understanding of this domain of emotional experience.
+abstract: Vocalizations including laughter, cries, moans, or screams constitute a potent source of information about the affective states of others. It is typically conjectured that the higher the intensity of the expressed emotion, the better the classification of affective information. However, attempts to map the relation between affective intensity and inferred meaning are controversial. Based on a newly developed stimulus database of carefully validated non-speech expressions ranging across the entire intensity spectrum from low to peak, we show that the intuition is false. Based on three experiments (N = 90), we demonstrate that intensity in fact has a paradoxical role. Participants were asked to rate and classify the authenticity, intensity and emotion, as well as valence and arousal of the wide range of vocalizations. Listeners are clearly able to infer expressed intensity and arousal; in contrast, and surprisingly, emotion category and valence have a perceptual sweet spot: moderate and strong emotions are clearly categorized, but peak emotions are maximally ambiguous. This finding, which converges with related observations from visual experiments, raises interesting theoretical challenges for the emotion communication literature.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
