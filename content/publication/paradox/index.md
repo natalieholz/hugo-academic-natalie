@@ -1,5 +1,5 @@
 ---
-title: "The variably intense vocalizations of affect and emotion (VIVAE) corpus prompts new perspective on nonspeech perception"
+title: "The paradoxical role of emotional intensity in the perception of vocal affect"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -14,7 +14,7 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2022-02-01T00:00:00Z"
+date: "2022-05-06T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
