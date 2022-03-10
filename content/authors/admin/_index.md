@@ -20,7 +20,8 @@ bio: My research interests include x, y, and z.
 interests:
 - Emotion communication
 - Human voice
-- Nonverbal vocalizations | Screams
+- Nonverbal vocalizations
+- Screams
 
 # Education to show in About widget
 education:
